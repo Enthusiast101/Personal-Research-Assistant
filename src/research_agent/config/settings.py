@@ -1,0 +1,8 @@
+HOST = "127.0.0.1"
+PORT = 8080
+
+LLAMA_BASE_URL = f"http://{HOST}:{PORT}"
+
+MODEL = "Qwen/Qwen2.5-3B-Instruct-GGUF:Q4_K_M"
+TEMP = 0.2
+MAX_TOKENS = 2048

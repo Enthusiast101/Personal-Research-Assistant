@@ -1,0 +1,16 @@
+pyproject.toml
+src/personal_research_assistant.egg-info/PKG-INFO
+src/personal_research_assistant.egg-info/SOURCES.txt
+src/personal_research_assistant.egg-info/dependency_links.txt
+src/personal_research_assistant.egg-info/requires.txt
+src/personal_research_assistant.egg-info/top_level.txt
+src/research_agent/__init__.py
+src/research_agent/main.py
+src/research_agent/agent/graph.py
+src/research_agent/agent/state.py
+src/research_agent/config/__init__.py
+src/research_agent/config/settings.py
+src/research_agent/llm/__init__.py
+src/research_agent/llm/model.py
+src/research_agent/llm/server.py
+src/research_agent/mcp/client.py
